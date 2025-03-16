@@ -32,7 +32,7 @@ The search for a suitable internship becomes more accessible through the platfor
 ⚡ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/Psycho047/InternHunt.git
+git clone https://github.com/nikhil11221-tech/Intern-Hunt
 cd InternHunt
 
 2️⃣ Create a Virtual Environment
