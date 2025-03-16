@@ -79,5 +79,5 @@ streamlit run app.py
 📩 Contact
 
 📧 Email: nikhilbisla740@gmail.com
-🌍 GitHub: https://github.com/nikhil11221
+🌍 GitHub: https://github.com/nikhil11221-tech/Intern-Hunt
 🔗 LinkedIn: www.linkedin.com/in/shubham-sharma-163a962a9
